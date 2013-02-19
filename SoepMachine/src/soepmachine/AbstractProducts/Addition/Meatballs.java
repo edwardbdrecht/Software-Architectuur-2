@@ -4,10 +4,15 @@
  */
 package soepmachine.AbstractProducts.Addition;
 
+import soepmachine.AbstractProducts.AbstractAddition;
+
 /**
  *
  * @author edwardroozeboom23
  */
-public class Meatballs {
-	
+public class Meatballs extends AbstractAddition{
+	public Meatballs()
+	{
+		System.out.println("Meatballs added");
+	}
 }

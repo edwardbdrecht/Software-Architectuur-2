@@ -4,10 +4,15 @@
  */
 package soepmachine.AbstractProducts.Addition;
 
+import soepmachine.AbstractProducts.AbstractAddition;
+
 /**
  *
  * @author edwardroozeboom23
  */
-public class Croutons {
-	
+public class Croutons extends AbstractAddition{
+	public Croutons()
+	{
+		System.out.println("Croutons added");
+	}
 }

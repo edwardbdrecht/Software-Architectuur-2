@@ -1,0 +1,17 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package soepmachine.AbstractFactory;
+
+import soepmachine.AbstractProducts.*;
+
+/**
+ *
+ * @author edwardroozeboom23
+ */
+public abstract class AbstractFactory {
+	public abstract AbstractPowder addPowder();
+	public abstract AbstractLiquid addLiquid();
+	public abstract AbstractAddition addAddition();
+}

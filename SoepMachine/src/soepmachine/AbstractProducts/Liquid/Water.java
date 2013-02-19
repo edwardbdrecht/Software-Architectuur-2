@@ -4,10 +4,15 @@
  */
 package soepmachine.AbstractProducts.Liquid;
 
+import soepmachine.AbstractProducts.AbstractLiquid;
+
 /**
  *
  * @author edwardroozeboom23
  */
-public class Water {
-	
+public class Water extends AbstractLiquid{
+	public Water()
+	{
+		System.out.println("Water added");
+	}
 }

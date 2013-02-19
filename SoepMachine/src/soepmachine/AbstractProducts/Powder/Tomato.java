@@ -4,10 +4,15 @@
  */
 package soepmachine.AbstractProducts.Powder;
 
+import soepmachine.AbstractProducts.AbstractPowder;
+
 /**
  *
  * @author edwardroozeboom23
  */
-public class Tomato {
-	
+public class Tomato extends AbstractPowder{
+	public Tomato()
+	{
+		System.out.println("Tomatopowder added");
+	}
 }

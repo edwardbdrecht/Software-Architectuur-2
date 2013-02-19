@@ -4,6 +4,7 @@
  */
 package soepmachine;
 
+
 /**
  *
  * @author yannick
@@ -15,5 +16,6 @@ public class SoepMachine {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+		SoepMaker maker = new SoepMaker();
     }
 }
