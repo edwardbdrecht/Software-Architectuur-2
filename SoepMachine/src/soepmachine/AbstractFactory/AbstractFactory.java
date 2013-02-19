@@ -4,7 +4,9 @@
  */
 package soepmachine.AbstractFactory;
 
-import soepmachine.AbstractProducts.*;
+import soepmachine.AbstractProducts.Powder.AbstractPowder;
+import soepmachine.AbstractProducts.Liquid.AbstractLiquid;
+import soepmachine.AbstractProducts.Addition.AbstractAddition;
 
 /**
  *

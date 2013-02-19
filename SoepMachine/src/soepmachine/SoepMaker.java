@@ -4,8 +4,8 @@
  */
 package soepmachine;
 
-import soepmachine.AbstractFactory.Factory.ChickensoupFactory;
-import soepmachine.AbstractFactory.Factory.TomatosoupFactory;
+import soepmachine.AbstractFactory.ChickensoupFactory;
+import soepmachine.AbstractFactory.TomatosoupFactory;
 
 /**
  *

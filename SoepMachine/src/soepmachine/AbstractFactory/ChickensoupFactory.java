@@ -2,12 +2,12 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package soepmachine.AbstractFactory.Factory;
+package soepmachine.AbstractFactory;
 
 import soepmachine.AbstractFactory.AbstractFactory;
-import soepmachine.AbstractProducts.AbstractAddition;
-import soepmachine.AbstractProducts.AbstractLiquid;
-import soepmachine.AbstractProducts.AbstractPowder;
+import soepmachine.AbstractProducts.Addition.AbstractAddition;
+import soepmachine.AbstractProducts.Liquid.AbstractLiquid;
+import soepmachine.AbstractProducts.Powder.AbstractPowder;
 import soepmachine.AbstractProducts.Addition.Croutons;
 import soepmachine.AbstractProducts.Liquid.Water;
 import soepmachine.AbstractProducts.Powder.Chicken;

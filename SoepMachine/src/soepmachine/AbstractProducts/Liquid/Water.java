@@ -4,8 +4,6 @@
  */
 package soepmachine.AbstractProducts.Liquid;
 
-import soepmachine.AbstractProducts.AbstractLiquid;
-
 /**
  *
  * @author edwardroozeboom23

@@ -4,8 +4,6 @@
  */
 package soepmachine.AbstractProducts.Addition;
 
-import soepmachine.AbstractProducts.AbstractAddition;
-
 /**
  *
  * @author edwardroozeboom23
